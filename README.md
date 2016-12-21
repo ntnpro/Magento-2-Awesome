@@ -1,4 +1,4 @@
-### **Awesome Magento2** [![Awesome]
+### **Awesome Magento2**
 
 
 A collection of awesome things regarding Magento 2 ecosystem.
