@@ -1,9 +1,8 @@
 ### **Magento 2 Awesome**
 
-
 A collection of awesome things regarding Magento 2 ecosystem.
 
-#### Hello World 
+## Hello World 
 *   [Transactional Emails in Magento 2](https://www.ashsmith.io/magento2/transactional-emails-in-magento-2/)
 *   [Magento 2 module from scratch - Part 6: Unit Testing](https://www.ashsmith.io/magento2/module-from-scratch-part-6-unit-testing/)
 *   [Magento 2 module from scratch - Part 5: Adminhtml](https://www.ashsmith.io/magento2/module-from-scratch-part-5-adminhtml/) 
@@ -15,7 +14,7 @@ A collection of awesome things regarding Magento 2 ecosystem.
 *   [Simple Magento 2 Controller Module](https://www.ashsmith.io/2014/12/simple-magento2-controller-module/) 
 
 
-## [Magento 2: Advanced Javascript](/category/magento-2/#magento2-advanced-javascript)
+#### Advanced Javascript
 
 1.  [Magento 2: Javascript Init Scripts](http://alanstorm.com/magento_2_javascript_init_scripts/)
 2.  [KnockoutJS Primer for Magento Developers](http://alanstorm.com/knockoutjs_primer_for_magento_developers/)
@@ -23,7 +22,7 @@ A collection of awesome things regarding Magento 2 ecosystem.
 4.  [The Curious Case of Magento 2 Mixins](http://alanstorm.com/the-curious-case-of-magento-2-mixins/)
 5.  [Knockout Observables for Javascript Programmers](http://alanstorm.com/knockout-observables-for-javascript-programmers/)
 
-## [Magento 2 for PHP MVC Developers](/category/magento-2/#magento-2-mvc)
+#### Magento 2 for PHP MVC Developers
 
 1.  [Introduction to Magento 2 -- No More MVC](http://alanstorm.com/magento_2_mvvm_mvc/)
 2.  [Magento 2: Serving Frontend Files](http://alanstorm.com/magento-2-frontend-files-serving/)
@@ -39,7 +38,7 @@ A collection of awesome things regarding Magento 2 ecosystem.
 12.  [Magento 2: Advanced Routing](http://alanstorm.com/magento_2_advanced_routing/)
 13.  [Magento 2: Admin MVC/MVVM Endpoints](http://alanstorm.com/magento_2_admin_mvcmvvm_endpoints/)
 
-## [The Magento 2 Object System](/category/magento-2/#magento-2-object-system)
+#### The Magento 2 Object System
 
 1.  [Magento 2 Object Manager](http://alanstorm.com/magento_2_object_manager/)
 2.  [Magento 2's Automatic Dependency Injection](http://alanstorm.com/magento2_dependency_injection_2015/)
@@ -50,13 +49,13 @@ A collection of awesome things regarding Magento 2 ecosystem.
 7.  [Magento 2 Object Manager: Instance Objects](http://alanstorm.com/magento_2_object_manager_instance_objects/)
 8.  [Magento 2 Object Manager Plugin System](http://alanstorm.com/magento_2_object_manager_plugin_system/)
 
-## [Magento 2 and Composer](/category/magento-2/#magento-2-composer)
+#### Magento 2 and Composer
 
 1.  [Magento 2: Composer, Marketplace, and Satis](http://alanstorm.com/magento_2_composer_marketplace_and_local_satis_mirrors/)
 2.  [Magento 2: Composer Plugins](http://alanstorm.com/magento_2_composer_plugins/)
 3.  [Magento 2: Composer and Components](http://alanstorm.com/magento_2_composer_and_components/)
 
-## [Magento 2 UI Components](/category/magento-2/#magento-2-ui)
+#### Magento 2 UI Components
 
 1.  [Magento 2: Introducing UI Components](http://alanstorm.com/magento_2_introducing_ui_components/)
 2.  [Magento 2: Simplest UI Component](http://alanstorm.com/magento_simplest_ui_component/)
@@ -70,7 +69,7 @@ A collection of awesome things regarding Magento 2 ecosystem.
 10.  [Magento 2: uiElement Features and Checkout Application](http://alanstorm.com/magento-2-uielement-object-features-and-checkout-application/)
 11.  [Magento 2: Remaining uiElement Defaults](http://alanstorm.com/magento-2-remaining-uielement-defaults/)
 
-## [Magento 2: uiElement Internals](/category/magento-2/#magento-2-uielement-internals)
+#### Magento 2: uiElement Internals
 
 1.  [Magento 2: Defaults, uiElement, Observables, and the Fundamental Problem of Userland Object Systems](http://alanstorm.com/magento-2-defaults-uielement-observables-and-the-fundamental-problem-of-userland-object-systems/)
 2.  [Magento 2: Javascript Primer for uiElement Internals](http://alanstorm.com/magento-2-javascript-primer-for-uielement-internals/)
@@ -80,9 +79,9 @@ A collection of awesome things regarding Magento 2 ecosystem.
 6.  [Magento 2: uiClass Internals](http://alanstorm.com/magento-2-uiclass-internals/)
 
 
-##### Sample Data
+## Sample Data
 * [Generate data for performance testing](http://devdocs.magento.com/guides/v2.1/config-guide/cli/config-cli-subcommands-perf-data.html)
 * [Magento2 sample data generator](https://github.com/Atwix/m2-sampledata-generator)
 
-##### Performance Tools
+## Performance Tools
 * [JMeter Performance Toolkit](https://github.com/magento/magento2/tree/develop/setup/performance-toolkit)
